@@ -50,7 +50,7 @@ I'm a **Computer Science undergraduate** (B.Tech, Class of 2027) with a deep pas
 
 ### 🚀 Featured Projects
 
-#### 🔐 [Password Strength Checker](#) *(Python)*
+#### 🔐 [Password Strength Checker](https://github.com/satyanikhillanka-yml/password-strength-checker) *(Python)*
 > Developed an interactive command-line application that analyzes password strength based on length, character variety, and common exposure risk. Integrated with the HaveIBeenPwned API using secure k-Anonymity practices to deliver real-time, tailored credential security feedback.
 
 ---
